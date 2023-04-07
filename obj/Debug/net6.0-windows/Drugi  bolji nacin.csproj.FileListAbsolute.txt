@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\bin\Debug\net6.0-windows\Drugi  bolji nacin.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\bin\Debug\net6.0-windows\Drugi  bolji nacin.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\bin\Debug\net6.0-windows\Drugi  bolji nacin.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\bin\Debug\net6.0-windows\Drugi  bolji nacin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\bin\Debug\net6.0-windows\Drugi  bolji nacin.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi__bolji_nacin.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\refint\Drugi  bolji nacin.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\Drugi  bolji nacin.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Drugi  bolji nacin\Drugi  bolji nacin\obj\Debug\net6.0-windows\ref\Drugi  bolji nacin.dll

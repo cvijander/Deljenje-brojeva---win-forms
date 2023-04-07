@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Drugi  bolji nacin/1.0.0": {
+        "runtime": {
+          "Drugi  bolji nacin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Drugi  bolji nacin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
